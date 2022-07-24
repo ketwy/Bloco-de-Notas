@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=corpo
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ corpo\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=
+comment1.target=corpo()
+comment2.params=
+comment2.target=void\ main()
+comment3.params=
+comment3.target=void\ ler()
+comment4.params=
+comment4.target=void\ salvar()
+comment5.params=
+comment5.target=void\ recortar()
+comment6.params=
+comment6.target=void\ copiar()
+comment7.params=
+comment7.target=void\ colar()
+comment8.params=
+comment8.target=void\ substituir()
+comment9.params=
+comment9.target=void\ localizar()
+numComments=10
